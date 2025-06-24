@@ -1,7 +1,7 @@
-# 👋 Hey, ich bin Christoph
+# 👋 Hi, I'm Christoph
 
-**Full-Stack Developer in the making – mit einem Hang zu sauberem Code, cleveren Lösungen und echtem Praxisbezug.**  
-Aktuell unterwegs zwischen klassischem Web, Backend-Logik und ersten Schritten Richtung Python und Automatisierung.
+**Aspiring Full-Stack Developer** – at the very beginning of my coding journey, but with a strong drive to learn and build real-world solutions.  
+I’m passionate about developing practical skills in both frontend and backend, and eager to explore how technology can solve real problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cwillam)
 ![Languages](https://img.shields.io/badge/code-JavaScript%20%7C%20PHP%20%7C%20Python-blue)
@@ -9,38 +9,36 @@ Aktuell unterwegs zwischen klassischem Web, Backend-Logik und ersten Schritten R
 
 ---
 
-## 🚀 Mein Fokus
+## 🚀 My Focus & Goals
 
-- **Praxis, nicht nur Theorie:**  
-  Ich entwickle Webanwendungen mit **HTML, CSS, JavaScript, PHP und SQL** – von der ersten Zeile Code bis zum Deploy.
-- **Automatisierung & Effizienz:**  
-  Python kommt für Scripting, Automatisierung und Backend-Prototypen dazu.
-- **Moderne Dev-Tools:**  
-  Ich arbeite gern mit **Git, GitHub, Docker und CLI**-Workflows und feile ständig an meinen Prozessen.
-- **Growth Mindset:**  
-  Jede Codezeile ist ein Schritt nach vorn. Fehler? Lernchancen.
+- **Master the fundamentals:**  
+  Building a strong foundation in HTML, CSS, JavaScript, PHP, and SQL for robust web development.
+- **Backend & automation:**  
+  Diving into PHP and SQL, with Python in the mix for scripting, automation, and exploring its wide range of possibilities.
+- **Modern developer tools:**  
+  Learning how to work efficiently with Git, GitHub, Docker, and the command line – step by step.
+- **Long-term vision:**  
+  Creating real projects, building a meaningful portfolio, and preparing for a career as a developer – with a strong interest in freelancing and continuous learning.
 
 ---
 
-## 📚 Mein Lernweg
+## 📚 My Learning Path
 
-[![The Odin Project](https://img.shields.io/badge/Odin_Project-Full_Stack-blue)](https://www.theodinproject.com)  
+[![The Odin Project](https://img.shields.io/badge/Odin_Project-Foundations-blue)](https://www.theodinproject.com)  
 [![Codecademy](https://img.shields.io/badge/Codecademy-Hands_On-green)](https://www.codecademy.com)  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Zertifizierungen-lightgrey)](https://www.freecodecamp.org)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learning-lightgrey)](https://www.freecodecamp.org)
 
 > **Learning by doing:**  
-> Jedes Projekt im Portfolio ist Praxis – von Mini-Tools bis Webanwendungen.
+> Every small win is progress – and every mistake is a chance to improve.
 
 ---
 
-## 💡 Projekte & Skills
+## 💡 What I'm Working On
 
-- **Vom One-Pager bis zum CRUD-Backend**:  
-  Immer sauber, verständlich & nachvollziehbar dokumentiert
-- **Teamplayer & Wissensdurstig**:  
-  Ich teile gern Erfahrungen, Code-Snippets und Lösungswege
-- **Nie stillstehend**:  
-  Nächster Halt: Python & automatisierte Datenprozesse
+- **Mini-projects & coding exercises** from online courses
+- **Experimenting with real-world ideas** (websites, tools, simple automations)
+- **Documenting my journey:**  
+  Sharing what I learn, connecting with other developers, and always open to feedback
 
 ---
 
@@ -51,8 +49,7 @@ Aktuell unterwegs zwischen klassischem Web, Backend-Logik und ersten Schritten R
 
 ---
 
-> **Code. Learn. Repeat.**  
->  
-> *„Wer Fehler sucht, findet Fortschritt.“*
+> **"Those who look for mistakes will always find progress."**
 
 ---
+****
