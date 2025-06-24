@@ -5,7 +5,7 @@ I’m passionate about developing practical skills in both frontend and backend,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cwillam)
 ![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL%20%7C%20Python-blue)
-![Tools](https://img.shields.io/badge/tools-Git%2C%20Docker%2C%20VSCode-lightgrey)
+![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20VSCode%2C%20Linux%2C%20Bash%2C%20PHPStorm-lightgrey)
 
 ---
 
