@@ -4,7 +4,7 @@
 I’m passionate about developing practical skills in both frontend and backend, and eager to explore how technology can solve real problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cwillam)
-![Languages](https://img.shields.io/badge/code-JavaScript%20%7C%20PHP%20%7C%20Python-blue)
+![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL%20%7C%20Python-blue)
 ![Tools](https://img.shields.io/badge/tools-Git%2C%20Docker%2C%20VSCode-lightgrey)
 
 ---
