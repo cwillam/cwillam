@@ -4,7 +4,7 @@
 Currently on a hands-on journey to become a full-stack developer – with a strong foundation in frontend, a growing command of backend technologies, and a passion for real-world problem solving and clean code.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cwillam&color=blueviolet)
-![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL%20%7C%20Python-blue)
+![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL-blue)
 ![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20VSCode%2C%20Linux%2C%20PHPStorm%2C%20Bash-darkgrey)
 
 ---
