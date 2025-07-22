@@ -1,55 +1,86 @@
 # 👋 Hi, I'm Christoph
 
-**Aspiring Full-Stack Developer** – at the very beginning of my coding journey, but with a strong drive to learn and build real-world solutions.  
-I’m passionate about developing practical skills in both frontend and backend, and eager to explore how technology can solve real problems.
+**Aspiring Full-Stack Web Developer**  
+Currently on a hands-on journey to become a full-stack developer – with a strong foundation in frontend, a growing command of backend technologies, and a passion for real-world problem solving and clean code.
 
-![Profile Views](https://komarev.com/ghpvc/?username=cwillam)
+![Profile Views](https://komarev.com/ghpvc/?username=cwillam&color=blueviolet)
 ![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL%20%7C%20Python-blue)
-![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20VSCode%2C%20Linux%2C%20Bash%2C%20PHPStorm-lightgrey)
+![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20VSCode%2C%20Linux%2C%20PHPStorm%2C%20Bash-darkgrey)
 
 ---
 
-## 🚀 My Focus & Goals
+## 🚀 Focus & Goals
 
-- **Master the fundamentals:**  
-  Building a strong foundation in HTML, CSS, JavaScript, PHP, and SQL for robust web development.
-- **Backend & automation:**  
-  Diving into PHP and SQL, with Python in the mix for scripting, automation, and exploring its wide range of possibilities.
-- **Modern developer tools:**  
-  Learning how to work efficiently with Git, GitHub, Docker, and the command line – step by step.
-- **Long-term vision:**  
-  Creating real projects, building a meaningful portfolio, and preparing for a career as a developer – with a strong interest in freelancing and continuous learning.
+- 🧱 **Master the fundamentals**  
+  Solid foundation in HTML, CSS, JavaScript, PHP and SQL – building strong, maintainable web applications.
 
----
+- 🖥️ **Frontend & UI Design**  
+  Creating responsive layouts and user-friendly interfaces using modern HTML/CSS and vanilla JavaScript.
 
-## 📚 My Learning Path
+- 🔧 **Backend Development**  
+  Working with **PHP (LAMP/PERN)** and **JavaScript/Node.js (MERN)** to create dynamic, data-driven web apps and APIs.
 
-[![The Odin Project](https://img.shields.io/badge/Odin_Project-Foundations-blue)](https://www.theodinproject.com)  
-[![Codecademy](https://img.shields.io/badge/Codecademy-Hands_On-green)](https://www.codecademy.com)  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learning-lightgrey)](https://www.freecodecamp.org)
+- 🧰 **Modern developer tools & workflows**  
+  Learning Git/GitHub, Docker, Linux CLI, debugging workflows, and clean code principles step by step.
 
-> **Learning by doing:**  
-> Every small win is progress – and every mistake is a chance to improve.
+- 🎯 **Portfolio & real-world focus**  
+  Completing real projects, UI challenges, and building reusable components and systems – with long-term goals in **freelancing** and **remote full-stack roles**.
 
 ---
 
-## 💡 What I'm Working On
+## 📚 Learning Platforms
 
-- **Mini-projects & coding exercises** from online courses
-- **Experimenting with real-world ideas** (websites, tools, simple automations)
-- **Documenting my journey:**  
-  Sharing what I learn, connecting with other developers, and always open to feedback
+[![The Odin Project](https://img.shields.io/badge/The_Odin_Project-Full_Stack_JS-1e4b7b?style=flat&logo=theodinproject&logoColor=white)](https://www.theodinproject.com)  
+[![Codecademy](https://img.shields.io/badge/Codecademy-Full_Stack_PERN-1f4056?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com)  
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certifications-0a0a23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org)  
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Challenges-3a3a3a?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/cwillam)  
+[![Frontend Practice](https://img.shields.io/badge/Frontend_Practice-UI_Projects-1c1c1c?style=flat)](https://www.frontendpractice.com)
 
----
-
-## 🔧 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwillam&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cwillam&layout=compact)
+> 🧠 *Learning by building – Full Stack, step by step.*
 
 ---
 
-> **"Those who look for mistakes will always find progress."**
+## 💡 Currently Working On
+
+- ⚙️ Building full-stack features using PHP, MySQL, and vanilla JavaScript  
+- 🌍 Developing CRUD-based apps with Express, Node.js and MongoDB (MERN Stack)  
+- 💡 Experimenting with responsive layouts & UI logic using Frontend Mentor challenges  
+- 📘 Documenting everything to deepen understanding and share with the community
 
 ---
-****
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+  <!-- Streak -->
+  <a href="https://github.com/cwillam">
+    <img src="https://streak-stats.demolab.com?user=cwillam&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </a>
+
+  <!-- Main Stats -->
+  <a href="https://github.com/cwillam">
+    <img src="https://github-readme-stats.vercel.app/api?username=cwillam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  </a>
+
+  <!-- Top Languages Donut -->
+  <a href="https://github.com/cwillam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwillam&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
+
+  <!-- Contribution Graph -->
+  <a href="https://github.com/cwillam">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwillam&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Contribution Graph" />
+  </a>
+
+</div>
+
+
+</div>
+
+---
+
+> 🧩 _"Those who look for mistakes will always find progress."_  
+> — *Unknown*
+
+---
