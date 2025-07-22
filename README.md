@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christoph
 
 **Aspiring Full-Stack Web Developer**  
-Currently on a hands-on journey to become a full-stack developer – with a strong foundation in frontend, a growing command of backend technologies, and a passion for real-world problem solving and clean code.
+Currently building my full-stack development skills through focused practice and hands-on learning. I’m working to understand how everything connects – from the frontend to backend – while developing a solid foundation in real-world web development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cwillam&color=blueviolet)
 ![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL-blue)
@@ -11,20 +11,20 @@ Currently on a hands-on journey to become a full-stack developer – with a stro
 
 ## 🚀 Focus & Goals
 
-- 🧱 **Master the fundamentals**  
-  Solid foundation in HTML, CSS, JavaScript, PHP and SQL – building strong, maintainable web applications.
+- 🧱 **Mastering the fundamentals**  
+  Strengthening my core knowledge in HTML, CSS, JavaScript, PHP and SQL through structured learning and repetition.
 
-- 🖥️ **Frontend & UI Design**  
-  Creating responsive layouts and user-friendly interfaces using modern HTML/CSS and vanilla JavaScript.
+- 🖥️ **Frontend & UI Practice**  
+  Creating responsive layouts and interactive UIs using HTML, CSS, and vanilla JavaScript – focusing on code structure, accessibility and usability.
 
-- 🔧 **Backend Development**  
-  Working with **PHP (LAMP/PERN)** and **JavaScript/Node.js (MERN)** to create dynamic, data-driven web apps and APIs.
+- 🔧 **Exploring Backend Technologies**  
+  Gradually learning server-side development with PHP and Node.js – understanding databases, routing, and data flow at a fundamental level.
 
-- 🧰 **Modern developer tools & workflows**  
-  Learning Git/GitHub, Docker, Linux CLI, debugging workflows, and clean code principles step by step.
+- 🧰 **Tooling & Workflows**  
+  Getting comfortable with Git, GitHub, Linux CLI, debugging, and clean code – integrating them into daily practice.
 
-- 🎯 **Portfolio & real-world focus**  
-  Completing real projects, UI challenges, and building reusable components and systems – with long-term goals in **freelancing** and **remote full-stack roles**.
+- 🎯 **Project Preparation**  
+  Practicing smaller challenges and exercises to prepare for upcoming full projects, real-world apps, and portfolio building.
 
 ---
 
@@ -36,27 +36,23 @@ Currently on a hands-on journey to become a full-stack developer – with a stro
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Challenges-3a3a3a?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/cwillam)  
 [![Frontend Practice](https://img.shields.io/badge/Frontend_Practice-UI_Projects-1c1c1c?style=flat)](https://www.frontendpractice.com)
 
-> 🧠 *Learning by building – Full Stack, step by step.*
+> 🧠 *Practice > Theory – learning Full Stack by doing, step by step.*
 
 ---
 
-## 💡 Currently Working On
+## 💡 Currently Practicing
 
-- ⚙️ Building full-stack features using PHP, MySQL, and vanilla JavaScript  
-- 🌍 Developing CRUD-based apps with Express, Node.js and MongoDB (MERN Stack)  
-- 💡 Experimenting with responsive layouts & UI logic using Frontend Mentor challenges  
-- 📘 Documenting everything to deepen understanding and share with the community
+- 📚 Coding exercises in JavaScript, HTML, CSS, and SQL  
+- 🔍 Understanding backend basics with PHP and Node.js  
+- 🎨 Improving layouts and components via Frontend Mentor challenges  
+- 🛠️ Experimenting with tools, workflows, and version control  
+- 🧾 Writing notes and documenting progress to stay consistent and accountable
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-
-  <!-- Streak -->
-  <a href="https://github.com/cwillam">
-    <img src="https://streak-stats.demolab.com?user=cwillam&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </a>
 
   <!-- Main Stats -->
   <a href="https://github.com/cwillam">
@@ -68,12 +64,15 @@ Currently on a hands-on journey to become a full-stack developer – with a stro
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwillam&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
   </a>
 
+  <!-- Streak (optional if visible) -->
+<a href="https://github.com/cwillam">
+  <img src="https://streak-stats.demolab.com?user=cwillam&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</a>
+
   <!-- Contribution Graph -->
   <a href="https://github.com/cwillam">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwillam&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Contribution Graph" />
   </a>
-
-</div>
 
 
 </div>
@@ -82,5 +81,3 @@ Currently on a hands-on journey to become a full-stack developer – with a stro
 
 > 🧩 _"Those who look for mistakes will always find progress."_  
 > — *Unknown*
-
----
