@@ -54,9 +54,8 @@ Currently building my full-stack development skills through focused practice and
 
 <div align="center">
 
-  <!-- Main Stats -->
   <a href="https://github.com/cwillam">
-    <img src="https://github-readme-stats.vercel.app/api?username=cwillam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=cwillam&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   </a>
 
   <!-- Top Languages Donut -->
@@ -64,16 +63,10 @@ Currently building my full-stack development skills through focused practice and
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwillam&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
   </a>
 
-  <!-- Streak (optional if visible) -->
-<a href="https://github.com/cwillam">
-  <img src="https://streak-stats.demolab.com?user=cwillam&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</a>
-
-  <!-- Contribution Graph -->
+  <!-- Main Stats -->
   <a href="https://github.com/cwillam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwillam&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cwillam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   </a>
-
 
 </div>
 
