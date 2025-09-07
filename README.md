@@ -3,9 +3,11 @@
 **Trainee Software Developer | Aspiring Full-Stack Web Developer**  
 Focused on building strong foundations in modern web development – connecting frontend, backend, and workflows through consistent practice and real-world projects.
 
+![Profile Views](https://komarev.com/ghpvc/?username=cwillam&color=blueviolet)
 ![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%2FLESS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20MySQL-blue)
 ![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20Linux%2C%20PHPStorm%2C%20VSCode-darkgrey)
 ![CMS](https://img.shields.io/badge/CMS-WordPress-lightgrey)
+
 
 ---
 
