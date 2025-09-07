@@ -1,76 +1,63 @@
 # 👋 Hi, I'm Christoph
 
-**Aspiring Full-Stack Web Developer**  
-Currently building my full-stack development skills through focused practice and hands-on learning. I’m working to understand how everything connects – from the frontend to backend – while developing a solid foundation in real-world web development.
+**Trainee Software Developer | Aspiring Full-Stack Web Developer**  
+Focused on building strong foundations in modern web development – connecting frontend, backend, and workflows through consistent practice and real-world projects.
 
-![Profile Views](https://komarev.com/ghpvc/?username=cwillam&color=blueviolet)
-![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20SQL-blue)
-![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20VSCode%2C%20Linux%2C%20PHPStorm%2C%20Bash-darkgrey)
+![Languages](https://img.shields.io/badge/code-HTML%20%7C%20CSS%2FLESS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20MySQL-blue)
+![Tools](https://img.shields.io/badge/tools-Git%2C%20GitHub%2C%20Docker%2C%20Linux%2C%20PHPStorm%2C%20VSCode-darkgrey)
+![CMS](https://img.shields.io/badge/CMS-WordPress-lightgrey)
 
 ---
 
 ## 🚀 Focus & Goals
 
-- 🧱 **Mastering the fundamentals**  
-  Strengthening my core knowledge in HTML, CSS, JavaScript, PHP and SQL through structured learning and repetition.
+- 🧱 **Mastering fundamentals**  
+  Deepening knowledge in HTML, CSS/LESS, JavaScript, PHP, and MySQL through structured learning and repetition.
 
-- 🖥️ **Frontend & UI Practice**  
-  Creating responsive layouts and interactive UIs using HTML, CSS, and vanilla JavaScript – focusing on code structure, accessibility and usability.
+- 🎨 **Frontend & UI**  
+  Creating responsive, accessible layouts and interactive components with clean and maintainable code.
 
-- 🔧 **Exploring Backend Technologies**  
-  Gradually learning server-side development with PHP and Node.js – understanding databases, routing, and data flow at a fundamental level.
+- 🔧 **Backend Development**  
+  Building dynamic applications with PHP and MySQL – exploring databases, queries, authentication, and data handling in real scenarios.
 
-- 🧰 **Tooling & Workflows**  
-  Getting comfortable with Git, GitHub, Linux CLI, debugging, and clean code – integrating them into daily practice.
+- 🛠️ **Workflows & Tools**  
+  Working with Git/GitHub, Linux CLI, Docker, and modern IDEs to establish professional workflows and improve productivity.
 
-- 🎯 **Project Preparation**  
-  Practicing smaller challenges and exercises to prepare for upcoming full projects, real-world apps, and portfolio building.
+- 📂 **Project-Oriented Learning**  
+  Applying new skills in small to mid-sized projects to connect theory with practice and prepare for larger applications.
 
 ---
 
-## 📚 Learning Platforms
+## 📚 Learning Path
 
-[![The Odin Project](https://img.shields.io/badge/The_Odin_Project-Full_Stack_JS-1e4b7b?style=flat&logo=theodinproject&logoColor=white)](https://www.theodinproject.com)  
-[![Codecademy](https://img.shields.io/badge/Codecademy-Full_Stack_PERN-1f4056?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com)  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certifications-0a0a23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org)  
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Challenges-3a3a3a?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/cwillam)  
-[![Frontend Practice](https://img.shields.io/badge/Frontend_Practice-UI_Projects-1c1c1c?style=flat)](https://www.frontendpractice.com)
+[![The Odin Project](https://img.shields.io/badge/The_Odin_Project-Full_Stack-1e4b7b?style=flat&logo=theodinproject&logoColor=white)](https://www.theodinproject.com)  
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Full_Stack_Beta-0a0a23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org)  
+[![JavaScript.info](https://img.shields.io/badge/JavaScript.info-Guide-f7df1e?style=flat&logo=javascript&logoColor=black)](https://javascript.info/)  
+[![WordPress](https://img.shields.io/badge/WordPress-Development-21759b?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org)  
 
-> 🧠 *Practice > Theory – learning Full Stack by doing, step by step.*
+> 📖 *I also learn through documentation, articles, and additional online resources.*  
+>  
+> 🧠 *Practice over theory – learning by doing, step by step.*  
 
 ---
 
 ## 💡 Currently Practicing
 
-- 📚 Coding exercises in JavaScript, HTML, CSS, and SQL  
-- 🔍 Understanding backend basics with PHP and Node.js  
-- 🎨 Improving layouts and components via Frontend Mentor challenges  
-- 🛠️ Experimenting with tools, workflows, and version control  
-- 🧾 Writing notes and documenting progress to stay consistent and accountable
+- Writing clean, accessible HTML and CSS/LESS  
+- Building responsive layouts & modern UI components with **JavaScript (frontend focus)**  
+- PHP + MySQL: CRUD operations, queries, authentication, and data-driven features  
+- Following structured paths (Odin Project, freeCodeCamp, JavaScript.info)  
+- Using official docs, articles, and diverse resources to deepen understanding  
+- Improving workflows with Git, Docker, and Linux  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ✨ Philosophy
 
-<div align="center">
-
-  <a href="https://github.com/cwillam">
-    <img src="https://streak-stats.demolab.com?user=cwillam&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </a>
-
-  <!-- Top Languages Donut -->
-  <a href="https://github.com/cwillam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwillam&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  </a>
-
-  <!-- Main Stats -->
-  <a href="https://github.com/cwillam">
-    <img src="https://github-readme-stats.vercel.app/api?username=cwillam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  </a>
-
-</div>
+> 🧩 *"Consistency creates clarity."*  
+>  
+> 🌱 *"Every project is a step towards mastery."*  
+>  
+> 🔍 *"Progress matters more than perfection."*  
 
 ---
-
-> 🧩 _"Those who look for mistakes will always find progress."_  
-> — *Unknown*
