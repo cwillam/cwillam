@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Christoph
+# Hi, I'm Christoph
 ### Software Developer Trainee (FIAE) | Aspiring Full-Stack Developer
 
-> **DE:** Anwendungsentwickler (FIAE) in Ausbildung. Mein Fokus liegt auf stabilen Grundlagen, sauber strukturiertem Code und einem breiten technischen Verständnis.
+> **DE:** Anwendungsentwickler (FIAE) mit Fokus auf stabilen Grundlagen, sauber strukturiertem Code und einem breiten technischen Verständnis.
 
 📍 **Location:** Bamberg Region, Germany 🇩🇪
 
@@ -11,7 +11,7 @@
 I follow a **"Fundamentals First"** approach – understanding *why* something works is my top priority.
 
 ### 🏗️ Core Stack (Practical Learning & Exercises)
-*Technologies I actively use during school modules, internship tasks, and practice exercises:*
+*Technologies I use during practical phases, modules, and learning exercises:*
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,8 +22,8 @@ I follow a **"Fundamentals First"** approach – understanding *why* something w
 
 ---
 
-### 🚀 Personal Roadmap (Continuous Self-Study)
-*Technologies I explore independently to expand my perspective on modern web architecture:*
+### 🚀 Strategic Growth & Personal Roadmap 2026
+*Technologies I am exploring independently to build my future full-stack expertise:*
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,27 +35,33 @@ I follow a **"Fundamentals First"** approach – understanding *why* something w
 ---
 
 ## 💼 Professional Development & AP2 Perspective
-I am currently in the first phase of my training and focused on a successful AP1 exam.
+I am currently in the first phase of my technical path and focused on a successful AP1 exam.
 
-* **Open Mindset:** While I am passionate about my personal roadmap (TS/React), I am **open to any professional environment** that offers solid mentorship and quality standards. I am not limited to a specific stack for my future practical phases.
-* **AP2 Outlook:** I am looking for a supportive partner for my **Final Project (AP2)** in 2026. My main goal is to grow as a developer and contribute to real-world solutions, regardless of the underlying technology.
-* **What I bring:** A strong work ethic, a curiosity for complex systems, and the ability to bridge the gap between different technologies.
+* **Open Mindset:** While I am passionate about my personal roadmap (TS/React), I am **open to any professional environment** that offers solid mentorship and quality standards.
+* **AP2 Outlook:** I am looking for a supportive partner for my **Final Project (AP2)** in 2026. My goal is to grow as a developer and contribute to real-world solutions, regardless of the underlying technology.
+* **What I bring:** A strong work ethic, curiosity for complex systems, and the ability to bridge the gap between different technologies.
 
 ---
 
-## 📚 Education & IHK (FIAE) Preparation
+## 📚 Education & Milestones
 | Area | Focus | Status |
 | :--- | :--- | :--- |
 | **IHK (FIAE) Prep** | Networking, Hardware, Security, Databases | 🎯 AP1 Feb 2026 |
 | **Web Basics** | Semantic HTML, Responsive CSS, JS & DOM | ✅ Ongoing |
-| **Backend Exploration** | PHP Basics, CRUD Logic, Introduction to OOP | 🏗️ In Progress |
-| **Frameworks** | Conceptual introduction to Angular & Laravel | 📖 Concept Phase |
+| **Backend Exploration** | First steps in PHP (DB-Connection, basic logic) & Intro to OOP | 🏗️ In Progress |
+| **Frameworks** | Introduction to Angular & Laravel (Educational modules) | 📖 Upcoming |
 
 ---
 
 ## 🧪 Practical Exercises & Learning Projects
-- **🐾 Animal Shelter App:** A private learning project to practice backend logic (PHP) and relational data modeling (MySQL).
-- **🔄 Evolution:** I use my private study (freeCodeCamp, The Odin Project) to constantly refactor my code and learn new paradigms.
+* **🐾 Animal Shelter App:** A private learning project to practice backend logic (PHP) and relational data modeling (MySQL).
+
+### 📚 Learning Path & Resources
+*I am committed to continuous improvement through these industry-standard paths:*
+
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-v9--Full--Stack-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org)
+[![The Odin Project](https://img.shields.io/badge/The_Odin_Project-Foundations-E38B06?style=for-the-badge&logo=theodinproject&logoColor=white)](https://www.theodinproject.com)
+[![FullStackOpen](https://img.shields.io/badge/FullStackOpen-Deep_Dive-68b030?style=for-the-badge&logo=react&logoColor=white)](https://fullstackopen.com/en/)
 
 ---
 
@@ -66,4 +72,4 @@ I am currently in the first phase of my training and focused on a successful AP1
 
 ---
 
-> *“Progress over perfection – every clean commit is a step forward.”*
+> *Practice over theory – learning by doing, step by step.*
