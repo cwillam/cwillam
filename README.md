@@ -54,7 +54,14 @@ I am currently in the first phase of my technical path and focused on a successf
 ---
 
 ## 🧪 Practical Exercises & Learning Projects
-* **🐾 Animal Shelter App:** A private learning project to practice backend logic (PHP) and relational data modeling (MySQL).
+
+### 🚀 [AP1 Tracker - Exam Prep Companion](https://github.com/cwillam/ap1-tracker)
+> **Live Demo:** [ap1.cwillam.de](https://ap1.cwillam.de)
+
+A modern, "Offline-First" web app to track learning progress for the German IT specialist exam (AP1).
+* **Concept:** Structured topic overview with persistent progress tracking via `LocalStorage`.
+* **Tech Stack:** Built purely with **HTML, Vanilla JS, and Tailwind CSS** to master web fundamentals without heavy frameworks.
+* **Privacy & Logic:** 100% GDPR compliant (no cookies/external requests). Developed using an **AI-Pair Programming workflow** (Gemini/Perplexity) to optimize logic and research.
 
 ### 📚 Learning Path & Resources
 *I am committed to continuous improvement through these industry-standard paths:*
