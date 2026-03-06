@@ -57,12 +57,12 @@ While many graduates focus primarily on application development, my passion lies
 
 ## 📂 Projects & Portfolio
 
-### 🟢 **[ap2-tracker](https://github.com/cwillam/ap2-tracker)** *Exam prep tracker for FIAE Part 2 (AP2)*
+### 🟢 **[ap2-tracker](https://github.com/cwillam/ap2-tracker)** *Offline- first exam prep tracker for FIAE Part 2 (AP2)*
 - **Live:** [ap2.cwillam.de](https://ap2.cwillam.de)
 - **Features:** Tailored specifically for the AP2 FIAE curriculum, tracking progress and exam readiness.
 - **Status:** Just Released / Production
 
-### 🟢 **[ap1-tracker](https://github.com/cwillam/ap1-tracker)** *Offline-first exam prep app for FIAE Part 1*
+### 🟢 **[ap1-tracker](https://github.com/cwillam/ap1-tracker)** *Offline-first exam prep tracker for Fachinformatiker Part 1*
 - **Live:** [ap1.cwillam.de](https://ap1.cwillam.de)
 - **Tech:** HTML5, JavaScript, Tailwind CSS
 - **Features:** Progress tracking, responsive design, LocalStorage persistence
