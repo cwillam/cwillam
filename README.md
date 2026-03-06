@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure** with a growing focus on **AI Security**. 
+I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure** with a growing focus on **AI Security**. 
 
 While many graduates focus primarily on application development, my passion lies in building and securing the underlying platforms. My goal is to become a **Junior DevSecOps Engineer** with solid expertise in Linux, Microsoft Azure, and infrastructure automation.
 
-> **Currently:** Building foundations in Linux, Networking & Security | ISC² CC Certification in progress
+> **Currently:** Building foundations in Linux & Programming | Python MOOC in progress
 
 ---
 
@@ -46,8 +46,8 @@ While many graduates focus primarily on application development, my passion lies
 
 | Quarter | Focus | Key Milestone | Status |
 |:-------:|:------|:--------------|:------:|
-| **Q1 '26** | Foundations | Linux, Networking, ISC² CC Cert | 🔄 **In Progress** |
-| **Q2 '26** | Coding & Cloud | Python (FastAPI), Azure IaC, AZ-900 | 📅 Planned |
+| **Q1 '26** | Linux & Programming | Linux, Python MOOC | 🔄 **In Progress** |
+| **Q2 '26** | Networking, Security & Cloud | Networking, ISC² CC Cert, Azure IaC, AZ-900 | 📅 Planned |
 | **Q3 '26** | Containers & Security | Docker, AKS (Kubernetes), OWASP | 📅 Planned |
 | **Q4 '26** | Capstone | AI Security Layer, CI/CD, Azure Monitor | 📅 Planned |
 
@@ -57,16 +57,21 @@ While many graduates focus primarily on application development, my passion lies
 
 ## 📂 Projects & Portfolio
 
-### 🟢 **[ap1-tracker](https://github.com/cwillam/ap1-tracker)** *Offline-first exam prep app for FIAE*
+### 🟢 **[ap2-tracker](https://github.com/cwillam/ap2-tracker)** *Exam prep tracker for FIAE Part 2 (AP2)*
+- **Live:** [ap2.cwillam.de](https://ap2.cwillam.de)
+- **Features:** Tailored specifically for the AP2 FIAE curriculum, tracking progress and exam readiness.
+- **Status:** Just Released / Production
+
+### 🟢 **[ap1-tracker](https://github.com/cwillam/ap1-tracker)** *Offline-first exam prep app for FIAE Part 1*
 - **Tech:** HTML5, JavaScript, Tailwind CSS
 - **Features:** Progress tracking, responsive design, LocalStorage persistence
 - **Status:** Production (Maintenance Mode)
 
-### 🔵 **Linux Security Baseline** *(Current Focus - Q1 2026)*
+### 🔵 **Linux Security Baseline** *(Planned for Q2 2026)*
 *Automated Ubuntu server hardening toolkit*
 - **Tech:** Bash scripting, UFW, fail2ban, SSH
 - **Focus:** Security automation, intrusion prevention, compliance checks
-- **Status:** In active development
+- **Status:** Planned
 
 ### 🟡 **Future Capstone: Secure AI Gateway** *(Planned for Q4 2026)*
 *Production API Gateway for LLM applications on Azure*
@@ -79,11 +84,11 @@ While many graduates focus primarily on application development, my passion lies
 ## 🎓 Certifications & Learning
 
 **In Progress:**
-- 🔄 **ISC² Certified in Cybersecurity (CC)** – *Target: April 2026*
+- 🔄 **Python Programming MOOC** – *University of Helsinki*
 - 🔄 **openHPI: Internetworking 2023** – *Hasso-Plattner-Institut (German)*
 
 **Planned 2026:**
-- 📅 Python Programming MOOC – *University of Helsinki*
+- 📅 **ISC² Certified in Cybersecurity (CC)** – *Target: Q2 2026*
 - 📅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - 📅 DevOps with Kubernetes – *University of Helsinki*
 - 📅 OWASP Top 10 & Application Security Essentials
@@ -124,6 +129,6 @@ I'm always open to discussing DevSecOps, Azure cloud architecture, security prac
 
 **"Building my expertise in secure cloud infrastructure for AI systems."** 🚀💙
 
-*Last updated: February 2026*
+*Last updated: March 2026*
 
 </div>
