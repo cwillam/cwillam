@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure** with a growing focus on **AI Security**. 
+I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure** with a growing focus on **AI Security**. 
 
 While many graduates focus primarily on application development, my passion lies in building and securing the underlying platforms. My goal is to become a **Junior DevSecOps Engineer** with solid expertise in Linux, Microsoft Azure, and infrastructure automation.
 
@@ -57,16 +57,13 @@ While many graduates focus primarily on application development, my passion lies
 
 ## 📂 Projects & Portfolio
 
-### 🟢 **[ap2-tracker](https://github.com/cwillam/ap2-tracker)** *Offline- first exam prep tracker for FIAE Part 2 (AP2)*
-- **Live:** [ap2.cwillam.de](https://ap2.cwillam.de)
-- **Features:** Tailored specifically for the AP2 FIAE curriculum, tracking progress and exam readiness.
-- **Status:** Just Released / Production
-
-### 🟢 **[ap1-tracker](https://github.com/cwillam/ap1-tracker)** *Offline-first exam prep tracker for Fachinformatiker Part 1*
-- **Live:** [ap1.cwillam.de](https://ap1.cwillam.de)
-- **Tech:** HTML5, JavaScript, Tailwind CSS
-- **Features:** Progress tracking, responsive design, LocalStorage persistence
-- **Status:** Production (Maintenance Mode)
+### 🟢 **Offline-First Exam Prep Trackers**
+*Tailored progress tracking and exam readiness apps for German IT apprentices.*
+- **AP1 Tracker:** [Live](https://ap1.cwillam.de) | [Repo](https://github.com/cwillam/ap1-tracker) – *General Part 1*
+- **AP2 Tracker (FIAE):** [Live](https://ap2.cwillam.de) | [Repo](https://github.com/cwillam/ap2-tracker) – *For Software Developers*
+- **AP2 Tracker (FISI):** [Live](https://ap2-fisi.cwillam.de/) | [Repo](https://github.com/cwillam/ap2-tracker) – *For System Integrators*
+- **Tech Stack:** HTML5, JavaScript, Tailwind CSS, LocalStorage
+- **Status:** Production / Active Use
 
 ### 🔵 **Linux Security Baseline** *(Planned for Q2 2026)*
 *Automated Ubuntu server hardening toolkit*
