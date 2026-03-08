@@ -61,7 +61,7 @@ While many graduates focus primarily on application development, my passion lies
 *Tailored progress tracking and exam readiness apps for German IT apprentices.*
 - **AP1 Tracker:** [Live](https://ap1.cwillam.de) | [Repo](https://github.com/cwillam/ap1-tracker) – *General Part 1*
 - **AP2 Tracker (FIAE):** [Live](https://ap2.cwillam.de) | [Repo](https://github.com/cwillam/ap2-tracker) – *For Software Developers*
-- **AP2 Tracker (FISI):** [Live](https://ap2-fisi.cwillam.de/) | [Repo](https://github.com/cwillam/ap2-tracker) – *For System Integrators*
+- **AP2 Tracker (FISI):** [Live](https://ap2-fisi.cwillam.de/) | [Repo](https://github.com/cwillam/ap2-fisi-tracker) – *For System Integrators*
 - **Tech Stack:** HTML5, JavaScript, Tailwind CSS, LocalStorage
 - **Status:** Production / Active Use
 
