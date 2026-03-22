@@ -4,9 +4,10 @@
 
 ### Software Developer Trainee (FIAE) @ Bamberg, Germany 🇩🇪
 
-**DevSecOps | Azure Cloud Infrastructure | AI Security**
+**DevSecOps · Azure Cloud Infrastructure · AI Security**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-willam/)
+[![XING](https://img.shields.io/badge/XING-Connect-026466?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Christoph_Willam)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:christoph.willam@googlemail.com)
 
 </div>
@@ -15,118 +16,136 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure** with a growing focus on **AI Security**. 
+I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure and AI Security** on Microsoft Azure.
 
-While many graduates focus primarily on application development, my passion lies in building and securing the underlying platforms. My goal is to become a **Junior DevSecOps Engineer** with solid expertise in Linux, Microsoft Azure, and infrastructure automation.
+While most graduates focus on application development, I focus on building and securing the platforms that modern AI systems run on — from hardened Linux servers to production Kubernetes clusters on AKS, automated end-to-end with Terraform and GitHub Actions.
 
-> **Currently:** Building foundations in Linux & Programming | Python MOOC in progress
+> *"Every module ends with a GitHub commit. Build in public, ship first, iterate later."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Current:**
+**Actively using:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
-**Learning:**
+**Building towards:**
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 🗺️ DevSecOps Journey
+## 🗺️ DevSecOps Roadmap
 
-<div align="center">
+> Structured learning path — each phase ships a real project to GitHub.
 
-| Quarter | Focus | Key Milestone | Status |
-|:-------:|:------|:--------------|:------:|
-| **Q1 '26** | Linux & Programming | Linux, Python MOOC | 🔄 **In Progress** |
-| **Q2 '26** | Networking, Security & Cloud | Networking, ISC² CC Cert, Azure IaC, AZ-900 | 📅 Planned |
-| **Q3 '26** | Containers & Security | Docker, AKS (Kubernetes), OWASP | 📅 Planned |
-| **Q4 '26** | Capstone | AI Security Layer, CI/CD, Azure Monitor | 📅 Planned |
+| Phase | Focus | Deliverable | Status |
+|:-----:|:------|:------------|:------:|
+| **1** | Linux · Security Foundations | Hardened Linux Server | 🔄 |
+| **2** | Python · SQL · FastAPI | Secure API Gateway v1 | ⬜ |
+| **3** | Azure · Terraform · IaC | Terraform Azure Infrastructure | ⬜ |
+| **4** | Docker · Kubernetes (AKS) | AKS Production Deployment | ⬜ |
+| **5** | OWASP · AI Security · CI/CD | AI Security Layer + Pipeline | ⬜ |
+| **🏆** | Capstone | Secure AI Gateway 4.0 on Azure | ⬜ |
 
-</div>
+*🔄 In progress · ✅ Complete · ⬜ Planned*
 
 ---
 
-## 📂 Projects & Portfolio
+## 📂 Projects
 
-### 🟢 **Offline-First Exam Prep Trackers**
-*Tailored progress tracking and exam readiness apps for German IT apprentices.*
-- **AP1 Tracker:** [Live](https://ap1.cwillam.de) | [Repo](https://github.com/cwillam/ap1-tracker) – *General Part 1*
-- **AP2 Tracker (FIAE):** [Live](https://ap2.cwillam.de) | [Repo](https://github.com/cwillam/ap2-tracker) – *For Software Developers*
-- **AP2 Tracker (FISI):** [Live](https://ap2-fisi.cwillam.de/) | [Repo](https://github.com/cwillam/ap2-fisi-tracker) – *For System Integrators*
-- **Tech Stack:** HTML5, JavaScript, Tailwind CSS, LocalStorage
-- **Status:** Production / Active Use
+### 🟢 Local-First Exam Prep Trackers *(Shipped & Active)*
+*Identified a real problem: German IT apprentices had no focused, privacy-respecting tool for IHK exam prep. Independently designed, built, and deployed three trackers — AI-assisted development, fully self-initiated.*
 
-### 🔵 **Linux Security Baseline** *(Planned for Q2 2026)*
-*Automated Ubuntu server hardening toolkit*
-- **Tech:** Bash scripting, UFW, fail2ban, SSH
-- **Focus:** Security automation, intrusion prevention, compliance checks
-- **Status:** Planned
+- **790+ topic-specific flashcards** covering the full IHK exam catalogue (FIAE & FISI)
+- **Spaced repetition engine**, smart focus recommendations, Pomodoro timer
+- **Privacy by design:** local-first architecture, no login, no tracking, no external requests — all data stays on the user's device
+- **Stack:** HTML5 · Vanilla JavaScript (ES6+) · Tailwind CSS · LocalStorage
 
-### 🟡 **Future Capstone: Secure AI Gateway** *(Planned for Q4 2026)*
-*Production API Gateway for LLM applications on Azure*
-- **Focus:** Infrastructure as Code (Terraform), Azure Kubernetes Service (AKS), basic AI Security (Prompt Injection Defense)
-- **Planned Stack:** Python, FastAPI, Azure, GitHub Actions
-- **Status:** Architectural planning phase
+| Tracker | Live |
+|:--------|:----:|
+| AP1 – General Part | [ap1.cwillam.de](https://ap1.cwillam.de) · [Repo](https://github.com/cwillam/ap1-tracker) |
+| AP2 – FIAE (Software Dev) | [ap2.cwillam.de](https://ap2.cwillam.de) · [Repo](https://github.com/cwillam/ap2-tracker) |
+| AP2 – FISI (System Integration) | [ap2-fisi.cwillam.de](https://ap2-fisi.cwillam.de) · [Repo](https://github.com/cwillam/ap2-fisi-tracker) |
+
+---
+
+### 🔵 Linux Security Baseline *(In Progress)*
+*Automated Ubuntu server hardening toolkit — the foundation every subsequent project builds on.*
+
+- UFW firewall · fail2ban · SSH key-only auth · automated setup script
+- Fully documented: every config decision explained in Markdown
+- **Repo:** [linux-baseline](https://github.com/cwillam/linux-baseline) *(coming soon)*
+
+---
+
+### 🟡 Secure AI Gateway 4.0 *(Planned — Capstone)*
+*Production-grade API Gateway for LLM applications, deployed on Azure AKS via Terraform IaC.*
+
+- **Stack:** Python · FastAPI · Docker · Kubernetes (AKS) · Terraform · GitHub Actions · PostgreSQL
+- **Security:** Prompt Injection Detection · PII Redaction (GDPR) · OWASP Top 10 · SAST · Container Scanning
+- **Infra:** Azure VNet · Redis · Azure Container Registry · Azure Monitor · Grafana
+- **Repo:** [secure-ai-gateway](https://github.com/cwillam/secure-ai-gateway) *(architectural planning)*
 
 ---
 
 ## 🎓 Certifications & Learning
 
-**In Progress:**
-- 🔄 **Python Programming MOOC** – *University of Helsinki*
-- 🔄 **openHPI: Internetworking 2023** – *Hasso-Plattner-Institut (German)*
+**Certifications:**
 
-**Planned 2026:**
-- 📅 **ISC² Certified in Cybersecurity (CC)** – *Target: Q2 2026*
-- 📅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 📅 DevOps with Kubernetes – *University of Helsinki*
-- 📅 OWASP Top 10 & Application Security Essentials
+| Status | Certification | Issuer |
+|:------:|:--------------|:-------|
+| 🔄 | Python Programming MOOC | University of Helsinki |
+| ⬜ | **ISC² Certified in Cybersecurity (CC)** | ISC² |
+| ⬜ | **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft |
+| ⬜ | DevOps with Kubernetes | University of Helsinki |
+| ⬜ | Relational Database Certification | freeCodeCamp |
+| ⬜ | Docker Essentials | IBM |
+| ⬜ | OWASP Top 10 & Application Security | APIsec University |
+
+*🔄 In progress · ✅ Earned · ⬜ Planned*
+
+**Foundations & Courses:**
+
+- Information Security – openHPI / Hasso-Plattner-Institut
+- Networking Basics · Linux Essentials · Cybersecurity Essentials · AI Security – Cisco NetAcad
+- Intro to SQL + Advanced SQL – Kaggle
 
 ---
 
-## 🎯 My Focus Areas
+## 🎯 Focus Areas
 
-- ☁️ **Cloud-Native Infrastructure:** Learning to build robust platforms on Microsoft Azure.
-- 🛡️ **Security-First Design:** Adopting a DevSecOps mindset (Shift-Left) early in my career.
-- 🤖 **AI Infrastructure Ready:** Understanding how to host and secure modern AI systems against emerging threats.
-- 🚀 **Production Mindset:** Focusing on deployments, monitoring, and Infrastructure as Code (Terraform) rather than just running code locally.
+**☁️ Cloud-Native Infrastructure**
+Building scalable, production-ready platforms on Microsoft Azure — from VMs and VNets to fully automated AKS clusters managed with Terraform.
 
----
+**🛡️ Security-First Design**
+Shift-left DevSecOps from day one: hardened Linux configs, SAST, container scanning, OWASP Top 10, and secure-by-default API design.
 
-## 🌱 Learning Philosophy
+**🤖 AI Infrastructure & Defense**
+Deploying and protecting modern AI systems — prompt injection defense, LLM rate limiting, PII redaction, and audit logging.
 
-> **"Build in Public, Learn by Doing"**
-
-My commitment:
-- 📝 Every learning module results in a practical GitHub project.
-- 🎯 Theory + Practice = Real understanding.
-- 🔄 Ship first, iterate later (Done is better than perfect).
-- 🌐 Document architectures thoroughly so others can learn from them.
+**🚀 Production Mindset**
+Every project ships with a README, architecture diagram, and copy-paste setup guide. Real deployments, not just local demos.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing DevSecOps, Azure cloud architecture, security practices, or collaborating on projects.
+Open to discussing DevSecOps, Azure architecture, AI security, or collaboration opportunities.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-christoph.willam@googlemail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christoph.willam@googlemail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-willam/)
-
----
-
-**"Building my expertise in secure cloud infrastructure for AI systems."** 🚀💙
-
-*Last updated: March 2026*
+[![XING](https://img.shields.io/badge/XING-Connect-026466?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Christoph_Willam)
 
 </div>
