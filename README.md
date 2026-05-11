@@ -2,12 +2,13 @@
 
 # Hi, I'm Christoph 👋
 
-### Software Developer Trainee (FIAE) @ Bamberg, Germany 🇩🇪
+### Aspiring Modern Penetration Tester | Final-Year Software Developer (FIAE)
 
-**DevSecOps · Azure Cloud Infrastructure · AI Security**
+**Ethical Hacking · API & Web Security · Cloud (Entra ID) · AI-Augmented Pentesting**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-willam/)
 [![XING](https://img.shields.io/badge/XING-Connect-026466?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Christoph_Willam)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cwillam)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:christoph.willam@googlemail.com)
 
 </div>
@@ -16,58 +17,55 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year FIAE apprentice** specializing in **Cloud-Native Infrastructure and AI Security** on Microsoft Azure.
+I'm a **final-year FIAE apprentice** currently transitioning my focus towards **Offensive Security and Modern Penetration Testing**, with a long-term goal of stepping into Red Teaming.
 
-While most graduates focus on application development, I focus on building and securing the platforms that modern AI systems run on — from hardened Linux servers to production Kubernetes clusters on AKS, automated end-to-end with Terraform and GitHub Actions.
+While traditional security often focuses on automated point-in-time scanning, my training is focused on the intersection of **human intuition, Business Logic Flaws, and AI-Augmented Pentesting**. Coming from a developer background gives me a helpful perspective on how web applications and APIs are structured, which I now use to better understand how they can be broken. I am actively training to secure the modern attack surface: from robust APIs and Cloud Identity Providers (Microsoft Entra ID) to LLM-driven applications.
 
-> *"Every module ends with a GitHub commit. Build in public, ship first, iterate later."*
+> *"Building offensive skills to strengthen defensive postures. Hack the planet, but ethically."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Weapons of Choice
 
-**Actively using:**
+**Core Offensive Tooling:**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+**Scripting, Cloud & Infrastructure:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-
-**Building towards:**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
-## 🗺️ DevSecOps Roadmap
+## 🗺️ Pentesting Fast-Track Roadmap (2026 Focus)
 
-> Structured learning path — each phase ships a real project to GitHub.
+> Currently executing a structured 9-15 month intensive fast-track to become job-ready for Junior/Mid Pentesting roles.
 
-| Phase | Focus | Deliverable | Status |
+| Phase | Focus | Core Topics | Status |
 |:-----:|:------|:------------|:------:|
-| **1** | Linux · Security Foundations | Hardened Linux Server | 🔄 |
-| **2** | Python · SQL · FastAPI | Secure API Gateway v1 | ⬜ |
-| **3** | Azure · Terraform · IaC | Terraform Azure Infrastructure | ⬜ |
-| **4** | Docker · Kubernetes (AKS) | AKS Production Deployment | ⬜ |
-| **5** | OWASP · AI Security · CI/CD | AI Security Layer + Pipeline | ⬜ |
-| **🏆** | Capstone | Secure AI Gateway 4.0 on Azure | ⬜ |
+| **1** | **Foundations** | Linux, Networking, Python, Security Basics | 🔄 |
+| **2** | **Modern Web & APIs** | SQLi, XSS, Burp Suite, API Security, Logic Flaws | ⬜ |
+| **3** | **Network & Cloud** | Nmap, Metasploit, AD Attacks, Entra ID (Azure) | ⬜ |
+| **4** | **Privilege Escalation** | Linux/Windows Root, AD Domain Admin | ⬜ |
+| **5** | **CTFs & AI Fluency** | HackTheBox, TryHackMe, LLM Assistant Prompting | ⬜ |
+| **🏆** | **Certifications** | ISC² CC → PNPT → OSCP | ⬜ |
 
 *🔄 In progress · ✅ Complete · ⬜ Planned*
 
 ---
 
-## 📂 Projects
+## 📂 Projects & Track Record
 
 ### 🟢 Local-First Exam Prep Trackers *(Shipped & Active)*
-*Identified a real problem: German IT apprentices had no focused, privacy-respecting tool for IHK exam prep. Independently designed, built, and deployed three trackers — AI-assisted development, fully self-initiated.*
+*Before pivoting fully to offensive security, I independently designed, built, and deployed three web applications. This project demonstrates my ability to build software from the ground up, providing a solid foundation for understanding web vulnerabilities.*
 
 - **790+ topic-specific flashcards** covering the full IHK exam catalogue (FIAE & FISI)
-- **Spaced repetition engine**, smart focus recommendations, Pomodoro timer
 - **Privacy by design:** local-first architecture, no login, no tracking, no external requests — all data stays on the user's device
 - **Stack:** HTML5 · Vanilla JavaScript (ES6+) · Tailwind CSS · LocalStorage
 
@@ -79,68 +77,62 @@ While most graduates focus on application development, I focus on building and s
 
 ---
 
-### 🔵 Linux Security Baseline *(In Progress)*
-*Automated Ubuntu server hardening toolkit — the foundation every subsequent project builds on.*
+### 🔵 Vulnerable Cloud Lab *(Planned)*
+*Self-hosted target environment running on an Ionos VPS. Deliberately vulnerable infrastructure to practice offensive techniques safely.*
 
-- UFW firewall · fail2ban · SSH key-only auth · automated setup script
-- Fully documented: every config decision explained in Markdown
-- **Repo:** [linux-baseline](https://github.com/cwillam/linux-baseline) *(coming soon)*
-
----
-
-### 🟡 Secure AI Gateway 4.0 *(Planned — Capstone)*
-*Production-grade API Gateway for LLM applications, deployed on Azure AKS via Terraform IaC.*
-
-- **Stack:** Python · FastAPI · Docker · Kubernetes (AKS) · Terraform · GitHub Actions · PostgreSQL
-- **Security:** Prompt Injection Detection · PII Redaction (GDPR) · OWASP Top 10 · SAST · Container Scanning
-- **Infra:** Azure VNet · Redis · Azure Container Registry · Azure Monitor · Grafana
-- **Repo:** [secure-ai-gateway](https://github.com/cwillam/secure-ai-gateway) *(architectural planning)*
+- Kali Linux via Docker · DVWA · crAPI (Completely Ridiculous API)
+- Automated deployment scripts for quick teardown and rebuilds
+- *Repository coming soon*
 
 ---
 
-## 🎓 Certifications & Learning
+### 🟡 Bug Bounty & CTF Writeups *(Planned)*
+*A centralized repository documenting my attack paths, methodologies (PTES), and remediation advice for compromised HackTheBox machines and TryHackMe rooms.*
 
-**Certifications:**
+- **Focus:** Demonstrating professional reporting skills and clear vulnerability communication.
+- *Repository coming soon*
 
-| Status | Certification | Issuer |
+---
+
+## 🎓 Certifications & Practice
+
+**Certifications Track:**
+
+| Status | Certification | Target |
 |:------:|:--------------|:-------|
-| 🔄 | Python Programming MOOC | University of Helsinki |
-| ⬜ | **ISC² Certified in Cybersecurity (CC)** | ISC² |
-| ⬜ | **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft |
-| ⬜ | DevOps with Kubernetes | University of Helsinki |
-| ⬜ | Relational Database Certification | freeCodeCamp |
-| ⬜ | Docker Essentials | IBM |
-| ⬜ | OWASP Top 10 & Application Security | APIsec University |
+| 🔄 | **ISC² Certified in Cybersecurity (CC)** | Foundation |
+| ⬜ | **eJPT** (eLearnSecurity Junior Pentester) | Baseline (Optional) |
+| ⬜ | **PNPT** (Practical Network Pentration Tester) | Advanced AD |
+| ⬜ | **OSCP** (Offensive Security Certified Professional) | Gold Standard |
 
 *🔄 In progress · ✅ Earned · ⬜ Planned*
 
-**Foundations & Courses:**
-
-- Information Security – openHPI / Hasso-Plattner-Institut
-- Networking Basics · Linux Essentials · Cybersecurity Essentials · AI Security – Cisco NetAcad
-- Intro to SQL + Advanced SQL – Kaggle
+**Platforms & Practice:**
+- [TryHackMe Profile (cwillam)](https://tryhackme.com/p/cwillam) – Actively working through the Jr Penetration Tester Path
+- HackTheBox (Planned)
+- PortSwigger Web Security Academy
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Offensive Focus Areas
 
-**☁️ Cloud-Native Infrastructure**
-Building scalable, production-ready platforms on Microsoft Azure — from VMs and VNets to fully automated AKS clusters managed with Terraform.
+**🌐 Modern Web & API Exploitation**
+Moving beyond basic scanners to find complex Business Logic Flaws, manipulate JWTs, and test GraphQL/REST APIs for Broken Object Level Authorization (BOLA).
 
-**🛡️ Security-First Design**
-Shift-left DevSecOps from day one: hardened Linux configs, SAST, container scanning, OWASP Top 10, and secure-by-default API design.
+**☁️ Hybrid Identity & Cloud Attacks**
+Understanding the shift from on-premise Active Directory to hybrid environments. Practicing Adversary-in-the-Middle (AitM) attacks, token theft, and Microsoft Entra ID exploitation.
 
-**🤖 AI Infrastructure & Defense**
-Deploying and protecting modern AI systems — prompt injection defense, LLM rate limiting, PII redaction, and audit logging.
+**🤖 AI Fluency in Offensive Ops**
+Utilizing LLMs (Agentic AI) as assistants for rapid code auditing, script generation, and advanced recon, while studying the vulnerabilities inherent to AI applications (OWASP Top 10 for LLMs).
 
-**🚀 Production Mindset**
-Every project ships with a README, architecture diagram, and copy-paste setup guide. Real deployments, not just local demos.
+**🚀 Professional Reporting**
+Treating every CTF and lab exercise like a real client engagement. Clear methodologies, reproducible proofs of concept (PoC), and actionable remediation advice.
 
 ---
 
 ## 📫 Let's Connect
 
-Open to discussing DevSecOps, Azure architecture, AI security, or collaboration opportunities.
+Open to discussing Offensive Security, CTF challenges, or Junior Pentesting opportunities!
 
 <div align="center">
 
