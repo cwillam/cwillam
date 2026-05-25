@@ -34,7 +34,7 @@ _I am actively executing a structured career roadmap to bridge the gap between s
 | **1** | **Basics & Security**       | Linux CLI, Networking, openHPI, **ISC² CC**                    | 🔄 In Progress |
 | **2** | **AppSec & Web/API**        | Python, **FastAPI**, PortSwigger, Helsinki Python              | 🔄 In Progress |
 | **3** | **Container & Hardening**   | Docker/Compose, SSH/UFW Hardening, **Terraform** basics        |   ⏳ Planned   |
-| **4** | **DevSecOps & CI/CD**       | GitHub Actions, Security Scanners (**Semgrep, Bandit, Trivy**) |   ⏳ Planned   |
+| **4** | **DevSecOps & CI/CD**       | GitHub Actions, Security Scanners (Semgrep/Bandit/Trivy), **Prometheus & Grafana** |   ⏳ Planned   |
 | **5** | **Cloud & Identity**        | Microsoft Azure, **Microsoft Entra ID** (IAM), **SC-900**      |   ⏳ Planned   |
 | **6** | **LLM Security & Capstone** | OWASP LLM Top 10, **Secure AI Gateway**                        |   ⏳ Planned   |
 
@@ -95,6 +95,8 @@ _My capstone project: A secure proxy gateway for Large Language Models (LLMs) to
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
