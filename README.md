@@ -2,7 +2,7 @@
 
 # Christoph Willam
 
-### Secure Software Developer & DevSecOps Engineer
+### Software Developer (FIAE 02/2027) · Focus on Backend & DevSecOps
 
 Building resilient backends · Hardening infrastructure · Automating CI/CD security
 
@@ -17,15 +17,17 @@ Building resilient backends · Hardening infrastructure · Automating CI/CD secu
 
 ## About Me
 
-I am a software developer with a strong focus on **Secure Coding & DevSecOps**, finishing my degree as an **IHK Certified IT Specialist in Application Development (FIAE)** in February 2027.
+I am a software developer completing my vocational training as an **IHK Certified IT Specialist in Application Development (FIAE)** in February 2027, with a strong self-driven focus on **Secure Coding & DevSecOps**.
 
-My engineering approach is rooted in understanding systems from the inside out: writing clean, defensive backend code and establishing automated security guardrails directly inside CI/CD pipelines (_Shift Left_). Rather than treating security as an afterthought, I build applications that are secure by design.
+Alongside my regular training, I am **teaching myself** backend security and CI/CD automation in my private homelab: learning how to write defensive code and establish automated security guardrails directly inside pipelines (_Shift Left_).
 
-Beyond application development, I actively manage and harden my own Linux server environments and develop privacy-first Progressive Web Apps.
+Beyond application development, I practice Linux server hardening on my own VPS and build privacy-first Progressive Web Apps in my free time.
 
 ---
 
 ## Tech Stack & Tooling
+
+_Technologies I work with today alongside the DevSecOps stack I am actively self-studying on my 2027 roadmap:_
 
 ### Core Backend & Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,38 +62,37 @@ Beyond application development, I actively manage and harden my own Linux server
 _A series of privacy-first Progressive Web Apps built for computer science students in Germany. Designed for 100% offline learning with zero tracking._
 
 - **Architecture:** Complete offline capability via Service Workers, responsive Vanilla CSS3, zero external runtime dependencies, and local state persistence.
-- **Reach & Distribution:** Over 2,900 flashcards actively used across Germany. Available on the web and currently rolling out on the **Google Play Store**.
+- **Reach & Distribution:** Over 2,900 flashcards actively used across Germany. Available on the web and on the **Google Play Store**.
 - **Stack:** HTML5 · Vanilla CSS3 · Vanilla JavaScript · Service Workers / PWA · LocalStorage
 - **Live Apps:** [AP1](https://ap1.cwillam.de) · [AP2 FIAE](https://ap2.cwillam.de) · [AP2 FISI](https://ap2-fisi.cwillam.de)
 - **Source:** [`ap1-tracker`](https://github.com/cwillam/ap1-tracker) · [`ap2-tracker`](https://github.com/cwillam/ap2-tracker) · [`ap2-fisi-tracker`](https://github.com/cwillam/ap2-fisi-tracker)
 
 ### Secure API Gateway (FastAPI)
-_A hardened RESTful API demonstrating secure backend architecture and automated testing practices._
+_Planned / In progress: FastAPI REST API focused on secure backend architecture and automated testing practices._
 
-- **Security Highlights:** JWT lifecycle management, bcrypt password hashing, Pydantic schema validation, and granular rate-limiting.
-- **Infrastructure:** Containerized with rootless Docker and verified through automated test suites in Pytest.
+- **Target Scope:** JWT lifecycle management, bcrypt password hashing, Pydantic schema validation, and granular rate-limiting.
+- **Infrastructure Goal:** Containerization with rootless Docker and verification through automated test suites in Pytest.
 - **Stack:** Python · FastAPI · PostgreSQL · Docker · Pytest
-- **Status:** In active development.
+- **Status:** In active development (Private Homelab).
 
 ### LLM Security Proxy (Secure AI Gateway)
-_A production-ready defense gateway designed to inspect, sanitize, and audit traffic to Large Language Models._
+_A planned defense gateway architecture designed to inspect, sanitize, and audit traffic to Large Language Models._
 
-- **Security Highlights:** Prompt injection mitigation, automated PII redaction, token-based rate limiting, and immutable PostgreSQL audit logs.
+- **Target Scope:** Prompt injection mitigation, automated PII redaction, token-based rate limiting, and immutable PostgreSQL audit logs.
 - **Stack:** Python · FastAPI · Redis · PostgreSQL · Docker · GitHub Actions
-- **Status:** Capstone Architecture (Roadmap 2027).
+- **Status:** Capstone Concept (Self-Study Roadmap 2027).
 
 ---
 
 ## Education & Continuous Learning
 
 - **IHK Certified IT Specialist for Application Development (FIAE)**  
-  _Professional Degree_ · Expected Completion: **February 2027**
-- **Core Competencies:** Secure Software Design, Linux Server Administration, Container Security & CI/CD Pipeline Automation.
+  _Vocational Training_ · Expected Completion: **February 2027**
+- **Self-Study & Focus Areas:** Secure Software Design, Linux Server Administration, Container Security & CI/CD Pipeline Automation.
 - **Roadmap & Cloud Focus (2027):** Microsoft Azure (AZ-900 / SC-900), Cloud Identity (Entra ID) & Infrastructure as Code (Terraform).
-
 
 ---
 
 <div align="center">
-  <sub>Open to software engineering, backend, and DevSecOps opportunities starting Q1/Q2 2027.</sub>
+  <sub>Open to junior software engineering, backend, and DevSecOps opportunities starting Q1/Q2 2027.</sub>
 </div>
